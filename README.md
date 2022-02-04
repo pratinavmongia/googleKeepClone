@@ -1,3 +1,3 @@
 # googleKeepClone
 
-Before using the file locally do install the node modules locally
+Before using the project locally do install the node modules locally
